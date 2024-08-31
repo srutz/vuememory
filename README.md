@@ -20,3 +20,5 @@ npm run dev
 ## Preview
 
 Go to [https://srutz.github.io/vuememory/](https://srutz.github.io/vuememory/)
+
+
