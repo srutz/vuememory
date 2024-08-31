@@ -21,4 +21,6 @@ npm run dev
 
 Go to [https://srutz.github.io/vuememory/](https://srutz.github.io/vuememory/)
 
+(auto-deployed via Github Actions)
+
 
