@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, CSSProperties, ref, watch } from 'vue';
+import { computed, CSSProperties, ref } from 'vue';
 import { Card, GameState, RunState } from '../MemoryTypes';
 import { Util } from '../Util';
 import GameStats from './GameStats.vue';

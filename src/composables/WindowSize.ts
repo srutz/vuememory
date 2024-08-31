@@ -1,4 +1,4 @@
-import { ref, onMounted, onUnmounted, reactive } from 'vue';
+import { onMounted, onUnmounted, reactive } from 'vue';
 
 /* reactive window size */
 export function useWindowSize() {
